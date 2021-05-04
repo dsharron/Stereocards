@@ -1,4 +1,4 @@
-#** 19th Century Stereocards of St. Catharines**
+# *19th Century Stereocards of St. Catharines*
 
 Repository of seven new stereocards of St. Catharines acquired by the Brock University Archives.  
 
